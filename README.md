@@ -13,7 +13,7 @@
 
 
 ## Technologies 
-- JavaScript with 
+- JavaScript  
 - External APIs
 
 
