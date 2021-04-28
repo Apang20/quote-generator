@@ -19,7 +19,7 @@ An application that generates random inspiring quotes
 - Run npm install
 - Run npm start 
 
--  Click [Here](http://127.0.0.1:5500/index.html) to view it in the browser.
+-  Click [Here](https://apang20.github.io/quote-generator/) to view it in the browser.
 
 
 
