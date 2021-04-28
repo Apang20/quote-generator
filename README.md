@@ -10,8 +10,8 @@ Generate a new quote with a click of a button and also share the quote to Twitte
 
 
 ## Technologies 
-- JavaScript
-- External APIs 
+- JavaScript with 
+- External APIs
 
 
 
