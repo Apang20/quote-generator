@@ -16,7 +16,7 @@ Generate a new quote with a click of a button and also share the quote to Twitte
 
 
 ## See Live
--  Click [Here](https://apang20.github.io/quote-generator/) to view it in the browser.
+Click [Here](https://apang20.github.io/quote-generator/) to view it in the browser.
 
 
 
