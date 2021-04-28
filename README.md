@@ -1,5 +1,5 @@
 
-# :repeat: Quote Generator :page_with_curl:
+#  :page_with_curl: Quote Generator :repeat:
 
 
 
@@ -26,7 +26,7 @@ An application that generates random inspiring quotes
 ## User Stories
 A user can do the following: 
 - Browse inspirational quotes
-- Tweet quote(s) from the application
+- Tweet quote(s) in real time from your account directly from the application
 
 
 
