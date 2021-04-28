@@ -5,7 +5,7 @@
 
 
 ## Overview
-An application that generates random inspiring quotes 
+Generate a new quote with a click of a button and also share the quote to Twitter.
 
 
 
@@ -32,5 +32,5 @@ A user can do the following:
 
 ## Resources
 - [Google Fonts](https://fonts.google.com/)
-- Twitter API
-- Quotes API
+- [Icons](https://fontawesome.com/)
+- [Quotes API](https://type.fit/api/quotes)
