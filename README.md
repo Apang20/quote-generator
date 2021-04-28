@@ -1,5 +1,5 @@
 
-# :page_with_curl: Quote Generator :arrows_clockwise: :recycle:
+#  :recycle:  Quote Generator :page_with_curl:
 
 
 
