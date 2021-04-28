@@ -2,6 +2,7 @@
 #  :page_with_curl: Quote Generator :page_with_curl:
 
 
+##  [View Live!](https://apang20.github.io/quote-generator/)
 
 
 ## Overview
@@ -13,11 +14,6 @@ Generate a new quote with a click of a button and also share the quote to Twitte
 ## Technologies 
 - JavaScript with 
 - External APIs
-
-
-
-
-##  [View Live!](https://apang20.github.io/quote-generator/)!
 
 
 
