@@ -10,33 +10,36 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
 
+<body>
+    <nav class="navbar fixed-top">
+        <div>Random Quote Generator</div>
+        <!-- <a href="http://online-portfolio/"><div>Portfolio</div></a> -->
+      </nav>
     <div class="quote-container" id="quote-container">
         <!-- Quote -->
         <div class="quote-text">
-            <i class="fas fa-quoate-left"></i>
-            <span id="quote"> </span>
+            <i class="fas fa-quote-left"></i>
+            <span id="quote"></span>
+            <i class="fas fa-quote-right"></i>
         </div>
         <!-- Author -->
         <div class="quote-author">
-            <span id="author"></span>
+           - <span id="author"></span>         
         </div>
         <!-- Buttons -->
         <div class="button-container">
-            <button class="twitter-button" id="twitter" title="Tweet This!">
+            <button class="twitter-button" id="twitter" title="tweet this">
                 <i class="fab fa-twitter"></i>
             </button>
-            <button id="new-quote">New Quote</button>
+            <button id="new-quote" class="new-quote">New Qoute</button>
         </div>
     </div>
-
     <!-- Loader -->
-    <div class="loader" id="loader"></div>
+    <div class="loader" id="loader">
 
-    <!-- Script  -->
-    <script src="quotes.js"></script>
+    </div>
+    <!-- Script -->
     <script src="script.js"></script>
 </body>
-
-</html>
+</html> 
