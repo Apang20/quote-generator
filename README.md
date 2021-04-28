@@ -5,7 +5,7 @@
 
 
 ## Overview
-Generate a new quote with a click of a button and also share the quote to Twitter.
+- Generate a new quote with a click of a button and also share the quote to Twitter
 
 
 
@@ -15,10 +15,7 @@ Generate a new quote with a click of a button and also share the quote to Twitte
 
 
 
-## To Start This Project
-- Run npm install
-- Run npm start 
-
+## See Live
 -  Click [Here](https://apang20.github.io/quote-generator/) to view it in the browser.
 
 
