@@ -7,7 +7,7 @@
 
 
 ## Overview
-Generate a new quote with a click of a button and also share the quote to Twitter
+-Generate a new quote with a click of a button and also share the quote to Twitter if you're feeling inspired!
 
 
 
