@@ -31,4 +31,4 @@ A user can do the following:
 - [Icons](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Quotes API](https://type.fit/api/quotes)
-- [Twitter API] (https://twitter.com/intent/tweet) 
+- [Twitter API](https://twitter.com/intent/tweet) 
