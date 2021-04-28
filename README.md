@@ -1,5 +1,5 @@
 
-#  ♻️ Quote Generator :page_with_curl: 
+#  :quote: Quote Generator 🔄: 
 
 
 ## [View Live!](https://apang20.github.io/quote-generator/)
