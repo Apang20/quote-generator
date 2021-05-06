@@ -23,6 +23,7 @@
 A user can do the following: 
 - Browse inspirational quotes
 - Tweet quote(s) in real time from your account directly from the application
+- App is mobile responsive, so users can access app on either phone, tablet or computer
 
 
 
