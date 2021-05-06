@@ -1,5 +1,5 @@
 
-#  💭Quote Generator 🐦
+#  💭Quote Generator ✉️
 
 
 ## [View Live!](https://apang20.github.io/quote-generator/)
