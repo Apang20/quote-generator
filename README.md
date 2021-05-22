@@ -7,7 +7,8 @@
 
 
 ## Overview
--Generate a new quote with a click of a button and also share the quote to Twitter if you're feeling inspired!
+Generate a new quote with a click of a button and also share the quote to Twitter if you're feeling inspired!
+Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with additional CSS customizations
 
 
 
@@ -15,6 +16,7 @@
 ## Technologies 
 - JavaScript  
 - External APIs
+- CSS/HTML
 
 
 
