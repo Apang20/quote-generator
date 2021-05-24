@@ -15,8 +15,9 @@ Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with
 
 ## Technologies 
 - JavaScript  
-- External APIs
-- CSS/HTML
+- External Joke API
+- HTML5
+- CSS3
 
 
 
