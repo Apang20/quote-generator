@@ -8,16 +8,14 @@
 
 ## Overview
 Generate a new quote with a click of a button and also share the quote to Twitter if you're feeling inspired!
-Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with additional CSS customizations
-
 
 
 
 ## Technologies 
 - JavaScript  
 - External APIs
-- HTML5
-- CSS3
+- HTML5 (Customizations added)
+- CSS3 (Customizations added)
 
 
 
@@ -35,3 +33,4 @@ A user can do the following:
 - [Google Fonts](https://fonts.google.com/)
 - [Quotes API](https://type.fit/api/quotes)
 - [Twitter API](https://twitter.com/intent/tweet) 
+- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)
