@@ -33,4 +33,4 @@ A user can do the following:
 - [Google Fonts](https://fonts.google.com/)
 - [Quotes API](https://type.fit/api/quotes)
 - [Twitter API](https://twitter.com/intent/tweet) 
-- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)
+- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)/ Additional Customizations: CSS3
